@@ -1,4 +1,4 @@
-### Hi there 👋 I am Fabricio and I do Frontend Development, Hope I can help you or feel welcome to my profile! 
+### Hi there 👋 I am Fabricio, Frontend Developer, Hope I can help you or feel welcome to my profile! Bless!
 
 <!--
 **FabriDaT/FabriDaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
