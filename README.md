@@ -1,16 +1,27 @@
-### Hi there 👋 I am Fabricio, Frontend Developer, Hope I can help you or feel welcome to my profile! Bless!
+# ¡Hola! Soy Fabricio 👋
 
-<!--
-**FabriDaT/FabriDaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado desarrollador **Front-End** especializado en **React**. Me encanta crear interfaces de usuario atractivas y funcionales que brindan experiencias excepcionales a los usuarios. 
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Actualmente estoy trabajando en proyectos que utilizan las últimas tecnologías en desarrollo web y colaborando en un proyecto para facilitar el aprendizaje ux/ui.
+- 💡 Siempre estoy aprendiendo y buscando mejorar mis habilidades en JavaScript, CSS y frameworks modernos.
+- 🌱 Me gusta compartir mis conocimientos y aprender de otros desarrolladores.
+
+## 🔧 Habilidades
+
+- **Lenguajes:** JavaScript, HTML, CSS
+- **Frameworks:** React, Next.js, Angular
+- **Herramientas:** Git, Webpack, npm
+- **Metodologías:** Agile, Scrum
+
+## 🤝 ¿Te gustaría colaborar?
+
+Estoy siempre abierto a nuevas oportunidades y me encantaría colaborar en proyectos interesantes. No dudes en contactarme:
+
+- 📧 Email: [fabriciodanielturrina@gmail.com]
+
+## 🎉 Gracias por visitar mi perfil
+
+Espero que podamos conectar y colaborar. ¡Estoy emocionado por lo que el futuro nos depara!
+
