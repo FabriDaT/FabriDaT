@@ -1,10 +1,10 @@
 # ¡Hola! Soy Fabricio 👋
 
-Soy un apasionado desarrollador **Front-End** especializado en **React**. Me encanta crear interfaces de usuario atractivas y funcionales que brindan experiencias excepcionales a los usuarios. 
+Soy un apasionado desarrollador **Front-End** especializado en **React** y **Tailwind**. Me encanta crear interfaces de usuario atractivas y funcionales que brindan experiencias excepcionales a los usuarios. 
 
 ## 🚀 Sobre mí
 
-- 👨‍💻 Actualmente estoy trabajando en proyectos que utilizan las últimas tecnologías en desarrollo web y colaborando en un proyecto para facilitar el aprendizaje ux/ui.
+- 👨‍💻 Actualmente estoy trabajando en proyectos que utilizan las últimas tecnologías en desarrollo web y tambien mobile con React Native.
 - 💡 Siempre estoy aprendiendo y buscando mejorar mis habilidades en JavaScript, CSS y frameworks modernos.
 - 🌱 Me gusta compartir mis conocimientos y aprender de otros desarrolladores.
 
