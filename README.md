@@ -10,8 +10,8 @@ Soy un apasionado desarrollador **Front-End** especializado en **React** y **Tai
 
 ## 🔧 Habilidades
 
-- **Lenguajes:** JavaScript, HTML, CSS
-- **Frameworks:** React, Next.js, Angular
+- **Lenguajes:** JavaScript, HTML, CSS, Java, SQL
+- **Frameworks:** React, Next.js, Angular, Vue.js, React Native, Spring
 - **Herramientas:** Git, Webpack, npm
 - **Metodologías:** Agile, Scrum
 
@@ -20,6 +20,7 @@ Soy un apasionado desarrollador **Front-End** especializado en **React** y **Tai
 Estoy siempre abierto a nuevas oportunidades y me encantaría colaborar en proyectos interesantes. No dudes en contactarme:
 
 - 📧 Email: [fabriciodanielturrina@gmail.com]
+- 👍 LinkedIn : [https://www.linkedin.com/in/fabridat/]
 
 ## 🎉 Gracias por visitar mi perfil
 
