@@ -1,19 +1,20 @@
 # ¡Hola! Soy Fabricio 👋
 
-Soy un apasionado desarrollador **Front-End** especializado en **React** y **Tailwind**. Me encanta crear interfaces de usuario atractivas y funcionales que brindan experiencias excepcionales a los usuarios. 
+Soy un apasionado desarrollador **Full-Stack**. Me encanta crear interfaces de usuario atractivas y funcionales que brindan experiencias excepcionales a los usuarios. Me encargo paralelamente a desarrollar e implementar soluciones en Backend para agilizar aplicacionese, reducir tiempos de carga, crear y mantener API's.
 
 ## 🚀 Sobre mí
 
-- 👨‍💻 Actualmente estoy trabajando en proyectos que utilizan las últimas tecnologías en desarrollo web y tambien mobile con React Native.
-- 💡 Siempre estoy aprendiendo y buscando mejorar mis habilidades en JavaScript, CSS y frameworks modernos.
-- 🌱 Me gusta compartir mis conocimientos y aprender de otros desarrolladores.
+- 👨‍💻 Actualmente estoy trabajando en proyectos que utilizan las últimas tecnologías en desarrollo web.
+- 💡 Siempre estoy aprendiendo y buscando mejorar mis habilidades como Frontend, Backend y DevOps.
+- 🌱 Me gusta compartir mis conocimientos y aprender de otros desarrolladores o empresas.
 
 ## 🔧 Habilidades
 
-- **Lenguajes:** JavaScript, HTML, CSS, Java, SQL
-- **Frameworks:** React, Next.js, Angular, Vue.js, React Native, Spring
+- **Lenguajes:** JavaScript, HTML, CSS, Java, SQL, GO
+- **Frameworks:** React, Next.js, Angular, Vue.js, Nuxt, React Native, Spring
 - **Herramientas:** Git, Webpack, npm
 - **Metodologías:** Agile, Scrum
+- **DevOps:** Aws (Amplify)
 
 ## 🤝 ¿Te gustaría colaborar?
 
@@ -22,7 +23,7 @@ Estoy siempre abierto a nuevas oportunidades y me encantaría colaborar en proye
 - 📧 Email: [fabriciodanielturrina@gmail.com]
 - 👍 LinkedIn : [https://www.linkedin.com/in/fabridat/]
 
-## 🎉 Gracias por visitar mi perfil
+## 🎉 Gracias por visitar mi perfil!
 
-Espero que podamos conectar y colaborar. ¡Estoy emocionado por lo que el futuro nos depara!
+Espero que podamos conectar y colaborar.
 
