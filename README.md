@@ -1,6 +1,6 @@
 # ¡Hola! Soy Fabricio 👋
 
-Soy un apasionado desarrollador **Full-Stack**. Me encanta crear interfaces de usuario atractivas y funcionales que brindan experiencias excepcionales a los usuarios. Me encargo paralelamente a desarrollar e implementar soluciones en Backend para agilizar aplicacionese, reducir tiempos de carga, crear y mantener API's.
+Soy un apasionado desarrollador **Full-Stack**. Me encanta crear interfaces de usuario atractivas y funcionales que brindan experiencias excepcionales a los usuarios. Me encargo paralelamente de desarrollar e implementar soluciones en Backend, agilizar aplicaciones, reducir tiempos de carga, crear y mantener API's, etc..
 
 ## 🚀 Sobre mí
 
